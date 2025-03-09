@@ -1,0 +1,7 @@
+yahoo-fin==0.8.9.1
+yahooquery==2.3.7
+yfinance==0.2.54
+streamlit==1.41.0
+streamlit_folium==0.24.0
+jupyterlab-widgets  
+folium==0.19.4
